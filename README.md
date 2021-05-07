@@ -2,7 +2,7 @@
 - 👀  I’m interested in web development and software security
 - 🌱 I’m currently learning React
 
-More on me https://khuonghieu.github.io
+**More about me** https://khuonghieu.github.io
 
 <!---
 khuonghieu/khuonghieu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
