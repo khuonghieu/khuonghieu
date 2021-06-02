@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @khuonghieu
 - 👀  I’m interested in web development and software security
-- 🌱 I’m currently learning React
+- 🌱  I’m currently using React for most of my daily work
 
 **More about me** https://khuonghieu.github.io
 
